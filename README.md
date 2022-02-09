@@ -10,7 +10,7 @@ to make things simple i have attached the scraped wordle.txt
 #WARNING
   Spoilers Ahead
 To run  
-1.Run setup.py once
+1.Run setup.py once(This will setup 2 binary files where we will parse data)
 2.Run final.py
 Thats it 
 You will see your desired word for that date

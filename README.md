@@ -43,6 +43,13 @@ AjayBadrinath
 
 #Just a side note 
 Since the wordle domain was acquired by nyc .Hope that they do not  mess up the source html file
-md5 hashes do remain the same as it was previously [0686bbfe8947308a054893ff0207e257] and now has changed to [b8599b74783d9b02874f5ebc0dc8ef0e]
+md5 hashes do remain the same as it was 
+
+previously [0686bbfe8947308a054893ff0207e257] and 
+
+
+now has changed to [b8599b74783d9b02874f5ebc0dc8ef0e]
+
+
 But as of now this tool works!!!
 The new website has removed 23 words so i have updated the same 

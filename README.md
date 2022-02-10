@@ -38,6 +38,9 @@ Enjoy!
 
 
 AjayBadrinath
+
+
+
 #Just a side note 
 Since the wordle domain was acquired by nyc .Hope that they do not  mess up the source html file
 But as of now this tool works!!!

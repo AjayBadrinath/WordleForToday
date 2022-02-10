@@ -1,6 +1,6 @@
 import pickle
 
-f=open("E://wordle.txt","r")
+f=open("E://newwordle.txt","r")
 def val():
     global maxval
     maxval=int(f.seek(0,2)/8)

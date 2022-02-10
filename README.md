@@ -20,7 +20,7 @@ to make things simple i have attached the scraped wordle.txt
 To run  
 
 
-1.Run script.py once(This will setup 2 binary files where we will parse data)
+1.Run script.py once(This will setup 2 binary files where we will parse data)or click on wordle.py file and you are set
 
 
 

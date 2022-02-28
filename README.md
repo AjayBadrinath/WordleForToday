@@ -53,3 +53,10 @@ now has changed to [b8599b74783d9b02874f5ebc0dc8ef0e]
 But as of now this tool works!!!
 The new website has removed 23 words so i have updated the same 
 incase you are using ver2 make sure to delete ver1 and all files wrt to that
+
+
+![Note]
+
+
+Before you clone again for the new version .Kindly Delete the files created previously in E drive that is parsed1.bin and dates.bin 
+I shall update this repo frequently 
